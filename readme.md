@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 I am a Machine Learning & Signal processing Engineer. 
 
 - I’m working as a machine learning Engineer.
@@ -29,7 +29,7 @@ I am a Machine Learning & Signal processing Engineer.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 ---
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helyousfi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div>
