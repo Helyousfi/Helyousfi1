@@ -15,7 +15,7 @@
 </div>
 
 <h1>
-  hey there
+  Hey there!
 </h1>
 
 ---
