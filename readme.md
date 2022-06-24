@@ -21,12 +21,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Machine Learning & Signal processing Engineer. 
 
-- :telescope: I’m working as a machine learning Engineer.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- I’m working as a machine learning Engineer.
+- Exploring Technical Content Writing.
+- In my free time, I read tech articles.
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 ### :fire: My Stats :
