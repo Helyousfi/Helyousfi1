@@ -26,7 +26,7 @@ I am a Machine Learning & Signal processing Engineer.
 - I’m working as a machine learning Engineer.
 - Exploring Technical Content Writing.
 - In my free time, I read tech articles.
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 ---
 ### :fire: My Stats :
