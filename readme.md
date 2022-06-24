@@ -28,7 +28,7 @@ I am a Machine Learning & Signal processing Engineer.
 - In my free time, I read tech articles.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helyousfi&theme=dark&background=000000)](https://git.io/streak-stats)
 
