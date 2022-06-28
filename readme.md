@@ -1,5 +1,6 @@
 <h1>
-  Hey there!
+  Hello world!
+  Welcome to my GitHub!
 </h1>
 
 ---
