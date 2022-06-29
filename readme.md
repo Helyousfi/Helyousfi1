@@ -10,7 +10,8 @@ I am a Machine Learning & Signal processing Engineer.
 
 - I’m working as a machine learning Engineer.
 - I'm a freelancer in machine learning.
-- In my free time, I read tech articles.
+- In my free time, I read & write tech articles.
+- Currently learning : tinyML
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 ---
