@@ -6,7 +6,7 @@
 ---
 
 ### About Me :
-I am a Machine Learning & Signal processing Engineer. 
+I am a Machine Learning & Signal/Image processing Engineer. 
 
 - I’m working as a machine learning Engineer.
 - I'm a freelancer in machine learning.
