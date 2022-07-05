@@ -11,7 +11,7 @@ I am a Machine Learning & Signal/Image processing Engineer.
 - I’m working as a machine learning & signal processing Engineer.
 - In my free time, I read & write tech articles : https://hashnode.com/@hesfy
 - Currently learning : tinyML
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
+- Want to reach me? here is my linkedin r [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 ---
 ### My Stats :
