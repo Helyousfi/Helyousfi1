@@ -13,6 +13,12 @@ I am a Machine Learning & Signal/Image processing Engineer.
 - Interested In : Maths, signal & image processing, data-science, electronics...
 - Want to reach me? here is my linkedin r [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
+
+### My experience :
+- Intern Engineer @ STmicroelectronics (Machine learning & computer vision)
+- Freelancer @ Fiverr (Machine learning & computer vision)
+- Intern Radiofrequency Engineer @ National Center for Scientific Research in Paris
+
 ---
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helyousfi&theme=dark&background=000000)](https://git.io/streak-stats)
