@@ -11,7 +11,7 @@ I am a Machine Learning & Signal/Image processing Engineer.
 - In my free time, I read & write tech articles (My blog : https://hashnode.com/@hesfy)
 - Currently learning : Data structures and algorithms in C and C++.
 - Interested In : Maths, signal & image processing, data-science, electronics...
-- Want to reach me? here is my linkedin r [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
+- Cureently looking for new opportunities, Want to reach me? here is my linkedin [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 
 ### My experience :
