@@ -5,7 +5,7 @@
 ---
 
 ### About Me :
-I am a Machine Learning & Signal/Image processing Engineer. 
+A Machine Learning & Signal/Image processing Engineer, living and breathing AI. 
 
 - I’m working as a machine learning & signal processing Engineer @ STmicroelectronics.
 - In my free time, I read & write tech articles (My blog : https://hashnode.com/@hesfy)
