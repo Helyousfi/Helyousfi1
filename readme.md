@@ -16,7 +16,7 @@ A Machine Learning & Signal/Image processing Engineer, living and breathing AI.
 
 ### My experience :
 - Intern Engineer @ STmicroelectronics (Machine learning & computer vision)
-- Freelancer @ Fiverr (Machine learning, computer vision & software development) worked with clients from : 🇫🇷  
+- Freelancer @ Fiverr (Machine learning, computer vision & software development) 
 - Intern Radiofrequency Engineer @ National Center for Scientific Research in Paris
 
 ---
