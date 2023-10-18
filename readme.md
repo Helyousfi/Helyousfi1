@@ -5,7 +5,7 @@
 ---
 
 ### About Me :
-A software Engineer, living and breathing software development. 
+A software Engineer @ IGE (Schneider Electric), living and breathing software development. 
 
 - Former machine learning & signal processing Engineer @ STmicroelectronics.
 - In my free time, I read & write tech articles (My blog : https://hashnode.com/@hesfy)
