@@ -9,12 +9,15 @@ A software Engineer @ IGE (Schneider Electric), living and breathing software de
 
 - Former machine learning & signal processing Engineer @ STmicroelectronics.
 - In my free time, I read & write tech articles (My blog : https://hashnode.com/@hesfy)
-- Currently learning : Data structures and algorithms in C and C++.
-- Interested In : Maths, signal & image processing, data-science, electronics...
-- Cureently looking for new opportunities, Want to reach me? here is my linkedin [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
+- Currently learning :
+    - Data structures and algorithms in C and C++
+    - Reading an indepth book to master C language ( Langage C - Claude Delannoy ). 
+- Interested In : Software Engineering, Maths, signal & image processing, data-science, electronics...
+- Want to reach me? here is my linkedin [![Linkedin Badge](https://img.shields.io/badge/-hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-24bb75204/)
 
 
 ### My experience :
+- Software Engineer @ Margo
 - Intern Engineer @ STmicroelectronics (Machine learning & computer vision)
 - Freelancer @ Fiverr (Machine learning, computer vision & software development) 
 - Intern Radiofrequency Engineer @ National Center for Scientific Research in Paris
