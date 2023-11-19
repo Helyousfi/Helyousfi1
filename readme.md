@@ -10,6 +10,7 @@ A software Engineer @ IGE (Schneider Electric), living and breathing software de
 - Former machine learning & signal processing Engineer @ STmicroelectronics.
 - In my free time, I read & write tech articles (My blog : https://hashnode.com/@hesfy)
 - Currently learning :
+    - .NET & C# 
     - Data structures and algorithms in C and C++
     - Reading an indepth book to master C language ( Langage C - Claude Delannoy ). 
 - Interested In : Software Engineering, Maths, signal & image processing, data-science, electronics...
